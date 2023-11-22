@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+docker electron express figma firebase git go graphql html5 javascript mongodb mysql nestjs nextjs nodejs react reactnative sass typescript xd
+
 <!--
 **zedysh/zedysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
