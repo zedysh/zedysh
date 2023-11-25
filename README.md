@@ -5,12 +5,11 @@
 <!--🖼️RICK-->
   
 <p align="center">
-  <div>
-    
+  
+  <div align="center"> 
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
   </div>
 
-<div>
-  
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedysh&layout=compact&theme=onedark&langs_count=15"/>
 </div>
