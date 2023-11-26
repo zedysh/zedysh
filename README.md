@@ -65,7 +65,6 @@
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30" />
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Expressjs" height="30" />
     <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nestjs" height="30" />
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" height="30" />
   </div>
 </div>
 
@@ -106,6 +105,7 @@
 <div align="center">
   <div>
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="30" />
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" height="30" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" height="30" />
   </div>
