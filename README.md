@@ -67,6 +67,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="30" />
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="30" />
   </div>
 </div>
@@ -121,6 +122,17 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="30" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30" />
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="30" />
+  </div>
+</div>
+
+#  
+
+<div align="center">
+  <div>
+    <p>And finally, if you are not using Brave yet, I highly suggest it <33</p>
+    <a href="https://brave.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="GitHub" height="30" />
+    </a>
   </div>
 </div>
 
