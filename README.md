@@ -83,7 +83,7 @@
 
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="Amazon AWS" height="30" />
+    <img src="https://img.shields.io/badge/Amazon%20AWS-FF9900?style=flat-square&logo=amazon-aws" alt="Amazon AWS" height="30" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30" />
   </div>
 </div>
