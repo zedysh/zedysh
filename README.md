@@ -21,7 +21,7 @@
   </a>
   
   <a href="https://zedysh.myportfolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-My Art Portfolio-white?style=flat-square" alt="Gmail" height="30" />
+    <img src="https://img.shields.io/badge/My Art Portfolio-white?style=for-the-badge" alt="Dribbble" height="30" />
   </a>
   
   <a href="https://dribbble.com/zedysh" target="_blank">
