@@ -29,34 +29,46 @@
 ## ⚡ Technologies
 
 <div align="center">
-  <table style="width: 100%; text-align: center; font-size: 24px;">
-    <tr>
-      <!-- ⚡ Technologies -->
-      <td><img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js" alt="Nextjs" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="30" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Nodejs" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nestjs" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-Threejs-black?style=flat-square&logo=Three.js" alt="Threejs" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma" alt="Figma" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" height="30" /></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql" alt="Apollo GraphQL" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" height="30" /></td>
-      <td><img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="Amazon AWS" height="30" /></td>
-    </tr>
-  </table>
+  <!-- ⚡ Technologies -->
+  <div>  
+    <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js" alt="Nextjs" height="30" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" height="30" />
+    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" height="30" />
+    <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88" alt="Redux" height="30" />
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" height="30" />
+    <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" height="30" />
+    <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" height="30" />
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" alt="Nodejs" height="30" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Expressjs" height="30" />
+    <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" alt="Nestjs" height="30" />
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" height="30" />
+    <img src="https://img.shields.io/badge/-Threejs-black?style=flat-square&logo=Three.js" alt="Threejs" height="30" />
+  </div>
+  
+  <div>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" alt="Amazon AWS" height="30" />
+    <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" alt="MongoDB" height="30" />
+    <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker" alt="Docker" height="30" />
+    <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql" alt="Apollo GraphQL" height="30" />
+    <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" alt="MySQL" height="30" />
+  </div>
+  
+
+  <div>
+    <img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma" alt="Figma" height="30" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" height="30" />
+    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="Git" height="30" />
+  </div>
+  
+
 </div>
+
+
+
 
 
 
