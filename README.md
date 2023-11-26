@@ -13,11 +13,11 @@
 <!-- Contact Links -->
 <div align="center">
   <a href="https://www.linkedin.com/in/demetre-turabelidze/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" />
   </a>
   
   <a href="mailto:turabelidze.demetre@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="30" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" />
   </a>
   
   <a href="https://zedysh.myportfolio.com/" target="_blank">
@@ -51,14 +51,14 @@
 
 <div align="center">
   <div>  
-    <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=Next.js" alt="Nextjs" height="30" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript" alt="TypeScript" height="30" />
-    <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt="React" height="30" />
-    <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux&logoColor=593D88" alt="Redux" height="30" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript" height="30" />
-    <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" height="30" />
-    <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" height="30" />
-    <img src="https://img.shields.io/badge/-Threejs-black?style=flat-square&logo=Three.js" alt="Threejs" height="30" />
+    <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Nextjs" height="30" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="30" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
+    <img src="https://img.shields.io/badge/Threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="30" />
   </div>
 </div>
 
