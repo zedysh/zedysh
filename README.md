@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+  <img src="https://readme-typing-svg.herokuapp.com font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 </p>
 
 <!--🖼️RICK-->
@@ -30,6 +30,15 @@
   
   <a href="https://www.behance.net/zedysh" target="_blank">
     <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="30" />
+  </a>
+</div>
+
+## Current Role
+
+<div align="center">
+  <p>I currently work at digital studio, Glitch, where we create interactive web experiences, websites and games 👾</p>
+  <a href="https://studio.glitch.ge/" target="_blank">
+    <img src="https://scontent.fqlf1-2.fna.fbcdn.net/v/t39.30808-6/271831511_488295699482630_977745114108603818_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=qkTdysSYbZkAX_D-zm3&_nc_ht=scontent.fqlf1-2.fna&oh=00_AfDW8N0P92WeWbZeVFN5-4Q7m4WbCJek5P42nCsHJ1SYOQ&oe=65699567" alt="" width="100"/>
   </a>
 </div>
 
