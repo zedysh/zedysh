@@ -43,7 +43,7 @@
 
 ## ⚡ Technologies
 
-#### Frontend
+### Frontend
 
 <div align="center">
   <div>  
@@ -58,7 +58,7 @@
   </div>
 </div>
 
-#### Backend
+### Backend
 
 <div align="center">
   <div>
@@ -69,7 +69,7 @@
   </div>
 </div>
 
-#### Database
+### Database
 
 <div align="center">
   <div>
@@ -80,7 +80,7 @@
   </div>
 </div>
 
-#### Cloud
+### Cloud
 
 <div align="center">
   <div>
@@ -89,7 +89,7 @@
   </div>
 </div>
 
-#### Design
+### Design
 
 <div align="center">
   <div>
@@ -101,7 +101,7 @@
   </div>
 </div>
 
-#### Other
+### Other
 
 <div align="center">
   <div>
