@@ -10,6 +10,9 @@
   </div>
 </p>
 
+&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch</a>.<br>
+
+
 <div align="center">
   <h2>Contact</h2>
 </div>
@@ -58,8 +61,7 @@
 
 ### Frontend
 
-<div align="center">
-  <div>  
+<div align="center" width="50%">
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Nextjs" height="30" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="30" />
@@ -67,73 +69,60 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="30" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30" />
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" height="30" />
+    <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Scss" height="30" />
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="30" />
-  </div>
 </div>
 
 ### Backend
 
 <div align="center">
-  <div>
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="30" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Expressjs" height="30" />
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge" alt="Expressjs" height="30" />
     <img src="https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nodejs" height="30" />
-  </div>
 </div>
 
 ### Database
 
 <div align="center">
-  <div>
     <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=F5820D" alt="Firebase" height="30" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" />
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" />
-  </div>
 </div>
 
 ### Cloud
 
 <div align="center">
-  <div>
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" height="30" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="30" />
-  </div>
 </div>
 
 ### Design
 
 <div align="center">
-  <div>
     <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="AdobeXd" height="30" />
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Adobe Photoshop" height="30" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" />
     <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="30" />
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" height="30" />
-  </div>
 </div>
 
 ### Other
 
 <div align="center">
-  <div>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="30" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="30" />
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="30" />
-  </div>
 </div>
 
 #  
 
 <div align="center">
-  <div>
     <p>And finally, if you are not using Brave yet, I highly suggest it <33</p>
     <a href="https://brave.com/" target="_blank">
       <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="GitHub" height="30" />
     </a>
-  </div>
 </div>
 
 
