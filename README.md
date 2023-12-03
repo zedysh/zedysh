@@ -112,10 +112,6 @@
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="27" />
 </div>
 
-<br />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)
-
 <!--
 <div align="center">
     <p>And finally, if you are not using Brave yet, I highly suggest it <33</p>
