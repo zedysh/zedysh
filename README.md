@@ -112,7 +112,9 @@
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="27" />
 </div>
 
-#  
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&layout=compact)
 
 <!--
 <div align="center">
