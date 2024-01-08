@@ -67,7 +67,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="27" />
     <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Scss" height="27" />
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="27" />
-    <img src="https://img.shields.io/badge/React Three Fiber-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="27" />
+    <img src="https://img.shields.io/badge/React Three Fiber-20232A?style=for-the-badge&logo=three.js&logoColor=61DAFB" alt="Threejs" height="27" />
   <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=F5820D" alt="Firebase" height="27" />
 </div>
 
