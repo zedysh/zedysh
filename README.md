@@ -67,13 +67,8 @@ I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch <
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Nextjs" height="27" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="27" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="27" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" height="27" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" height="27" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="27" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="27" />
     <img src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Scss" height="27" />
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="27" />
-    <img src="https://img.shields.io/badge/React Three Fiber-20232A?style=for-the-badge&logo=three.js&logoColor=61DAFB" alt="Threejs" height="27" />
   <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=F5820D" alt="Firebase" height="27" />
 </div>
 
