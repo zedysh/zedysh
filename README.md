@@ -1,15 +1,3 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
-</p>
-
-<p align="center">
-  <div align="center"> 
-    <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" width="400">
-  </div>
-</p> -->
-
-
 I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch </a><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;<br>
 
 <span>We make interactive campaigns, web apps, and web games for artists such as Post Malone, Justin Bieber, Lil Wayne, Imagine Dragons, Lady Gaga, ABBA, BTS, Olivia Rodrigo and more.We make interactive campaigns, web apps, and web games for artists such as Post Malone, Justin Bieber, Lil Wayne, Imagine Dragons, Lady Gaga, ABBA, BTS, Olivia Rodrigo and more.
@@ -25,43 +13,12 @@ I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch <
   <a href="https://www.linkedin.com/in/demetre-turabelidze/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="27" />
   </a>
-  
-  <a href="mailto:turabelidze.demetre@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="27" />
-  </a>
 </div>
 
 <div align="">
   <h2>⚡ Technologies</h2>
 </div>
 
-<!--
-<div align="center">
-  <a href="https://zedysh.myportfolio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My Art Portfolio-white?style=for-the-badge" alt="Dribbble" height="27" />
-  </a>
-  
-  <a href="https://dribbble.com/zedysh" target="_blank">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" height="27" />
-  </a>
-  
-  <a href="https://www.behance.net/zedysh" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" height="27" />
-  </a>
-</div> 
--->
-
-<!-- Freelancing links
-<div align="center">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="UpWork" height="27" />
-  </a>
-  
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" height="27" />
-  </a>
-</div>
--->
 
 <div align="">
     <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge" alt="Nextjs" height="27" />
@@ -71,32 +28,6 @@ I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch <
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Threejs" height="27" />
   <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=F5820D" alt="Firebase" height="27" />
 </div>
-
-<!--
-<br />
-
-<div align="">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" height="27" />
-    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge" alt="Expressjs" height="27" />
-    <img src="https://img.shields.io/badge/Nest.js-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" alt="Nodejs" height="27" />
-</div>
-
-<br />
-
-<div align="">
-    <img src="https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=F5820D" alt="Firebase" height="27" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="27" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="27" />
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="27" />
-</div>
-
-<br />
-
-<div align="">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS" height="27" />
-    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" height="27" />
-</div>
--->
 
 <br />
 
@@ -111,33 +42,6 @@ I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch <
 
 <div align="">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="27" />
-<!--     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="27" /> -->
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="27" />
     <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="27" />
 </div>
-
-<!--
-<div align="center">
-    <p>And finally, if you are not using Brave yet, I highly suggest it <33</p>
-    <a href="https://brave.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="GitHub" height="27" />
-    </a>
-</div> -->
-
-
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-    <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql" alt="Apollo GraphQL" height="27" />
-
-      <td><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" alt="PostgreSQL" /></td>
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) -->
-
