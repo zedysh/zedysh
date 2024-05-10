@@ -37,11 +37,3 @@ I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch <
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" height="27" />
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" height="27" />
 </div>
-
-<br/>
-
-<div align="">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="27" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" height="27" />
-    <img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=CB3837" alt="Git" height="27" />
-</div>
