@@ -1,10 +1,9 @@
 I currently work at <a href="https://studio.glitch.ge/" target="_blank">Glitch </a><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;<br>
 
-<span>We make interactive campaigns, web apps, and web games for artists such as Post Malone, Justin Bieber, Lil Wayne, Imagine Dragons, Lady Gaga, ABBA, BTS, Olivia Rodrigo and more.We make interactive campaigns, web apps, and web games for artists such as Post Malone, Justin Bieber, Lil Wayne, Imagine Dragons, Lady Gaga, ABBA, BTS, Olivia Rodrigo and more.
+<span>We make interactive campaigns, web apps, and web games for artists such as Post Malone, Justin Bieber, Lil Wayne, Imagine Dragons, Lady Gaga, ABBA, BTS, Olivia Rodrigo and more.
 </span>
 <br/>
-<br/>
-<span>Collaborating with major labels such as Universal Music Group, Jam Recordings, Verve Records, etc.</span>
+<span>Collaborating with major labels such as Universal Music Group, Def Jam Recordings and more.</span>
 
 
 <h2 align="">Reach out via</h2>
